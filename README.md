@@ -17,8 +17,8 @@ If each person has three numbers and neither player has a total of 15, continue 
 ## Screenshots
 [Add-to-15-gameDemo](https://github.com/danipedro2006/add-to-15-game/blob/main/p2L4eKJGMU.gif)  
 
-[Play online](https://damp-mountain-70923.herokuapp.com/)
-To play the game in the browswer you have to allow JavaScript run in your browser settings.
+>[Play online](https://damp-mountain-70923.herokuapp.com/)
+>To play the game in the browswer you have to allow JavaScript run in your browser settings.
 
 ## Technologies
 * JavaScript
