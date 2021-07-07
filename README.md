@@ -15,10 +15,10 @@ To win, you must have three numbers that add up to 15.
 If each person has three numbers and neither player has a total of 15, continue playing until one of you has three of their digits totalling 15, or stalemate is reached.
 
 ## Screenshots
-[Add-to-15-gameDemo](https://github.com/danipedro2006/add-to-15-game/blob/main/p2L4eKJGMU.gif)  
+[Add-to-15-Screenshot](https://github.com/danipedro2006/add-to-15-game/blob/main/p2L4eKJGMU.gif)  
 
->[Play online](https://damp-mountain-70923.herokuapp.com/)
->To play the game in the browswer you have to allow JavaScript run in your browser settings.
+[Play online](https://damp-mountain-70923.herokuapp.com/)
+To play run the game in the browswer first allow JavaScript in security settings.
 
 ## Technologies
 * JavaScript
