@@ -24,11 +24,8 @@ To run the game in the browswer first allow JavaScript in security settings.
 ## Technologies
 * JavaScript
 
-
-
 ## Status
 Project is completed and no longer maintained.
-
 
 ## Contact
 Created by @Danisoft Arad 2021(https://danipedro2006.github.io/) - feel free to contact me!
