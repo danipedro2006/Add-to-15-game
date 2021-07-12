@@ -19,7 +19,7 @@ If each person has three numbers and neither player has a total of 15, continue 
 
 ## Play  online
 [Click-me!](https://damp-mountain-70923.herokuapp.com/)   
-To run the game in the browswer first allow JavaScript in security settings.
+To run the game in the browser you have to allow JavaScript in security settings.
 
 ## Technologies
 * JavaScript
